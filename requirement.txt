@@ -1,0 +1,9 @@
+streamlit==0.88.0
+Pillow==8.4.0
+google-generativeai==0.0.3
+python-dotenv==0.19.2
+
+
+You need a Gemini api key which you will Find on 
+
+https://aistudio.google.com/app/apikey
